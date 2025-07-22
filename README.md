@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matthewbenincasa
 - 👀 I’m interested in Video Production, Machine Learning, DevOps, and Jack Benny
-- 🌱 I’m currently learning Docker and Ansible
+- 🌱 I’m currently learning Python, and studying for the CCNA exam
 - 💞️ I’m not looking to collaborate while I level up
 - 📫 How to reach me ... this section under construction 
 - 😄 Pronouns: he/him
